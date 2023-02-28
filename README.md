@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Puru Rana<br> 👀 I’m interested in Mobile Application Development and Web Development<br>🔭 I’m currently working on Mobile Application Development<br>👯 I’m looking to collaborate on Mobile Application Development and Web Application Development<br>🤝 I’m looking for help with developing on Mobile Application<br>🌱 I’m currently improving my React Native, Kotlin, Swift, Mobile Web Application Concept<br>💬 Ask me about Mobile Application <br>⚡ Fun fact - I am lazy but smart
+👋 Hi, I’m Puru Rana<br> 👀 I’m interested in Mobile Application Development and Web Development<br>🔭 I’m currently working on Mobile Application Development<br>👯 I’m looking to collaborate on Mobile Application Development and Web Application Development<br>🤝 I’m looking for help with developing on Mobile Application<br>🌱 I’m currently improving my React Native, Kotlin, Swift, Mobile Web Application Concept<br>💬 Ask me about Mobile Application<br>📫 How to reach me pururana@24gmail.com  <br>⚡ Fun fact - I am lazy but smart
 
 ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif) 
 
@@ -31,7 +31,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 📫 How to reach me pururana@24gmail.com 
+
 
 
 <!--Gurucaara/Gurucaara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
