@@ -2,7 +2,7 @@
 <!-- - 📫 How to reach me pururana@24gmail.com -->
 
 # 💫 About Me:
-👋 Hi, I’m Puru Rana<br> 👀 I’m interested in Mobile Application Development and Web Development<br>🔭 I’m currently working on Mobile Application Development<br>👯 I’m looking to collaborate on Mobile Application Development and Web Application Development<br>🤝 I’m looking for help with developing on mobile application<br>🌱 I’m currently improving my React Native, Kotlin, Swift, Mobile Web Application Concept<br>💬 Ask me about mobile application <br>⚡ Fun fact - I am lazy but smart
+👋 Hi, I’m Puru Rana<br> 👀 I’m interested in Mobile Application Development and Web Development<br>🔭 I’m currently working on Mobile Application Development<br>👯 I’m looking to collaborate on Mobile Application Development and Web Application Development<br>🤝 I’m looking for help with developing on Mobile Application<br>🌱 I’m currently improving my React Native, Kotlin, Swift, Mobile Web Application Concept<br>💬 Ask me about mobile application <br>⚡ Fun fact - I am lazy but smart
 <!-- ![git](https://user-images.githubusercontent.com/46606790/181631229-fa6a175d-5b5a-4124-9085-2293e64ed17a.gif) -->
 
 ## 🌐 Socials:
